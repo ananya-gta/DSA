@@ -1,12 +1,12 @@
 class Solution {
     public List<Integer> remainingMethods(int n, int k, int[][] invocations) {
-        List<Integer>[] graph = new ArrayList[n];         // {node -> [list of neighbours]}
+        List<List<Integer>> graph = new ArrayList<>();         // {node -> [list of neighbours]}
         for (int i = 0; i < n; i++) {
-            graph[i] = new ArrayList<>();
+            graph.add(new ArrayList<>());
         }
 
         for (int[] edge : invocations) {
-            graph[edge[0]].add(edge[1]); // {0 -> [2, 1], 1 -> [2], 2 -> [], 3 -> [4]}
+            graph.get(edge[0]).add(edge[1]); // {0 -> [2, 1], 1 -> [2], 2 -> [], 3 -> [4]}
         }
 
         boolean[] suspicious = new boolean[n];
@@ -35,10 +35,10 @@ class Solution {
 
     }
 
-    public void dfs (int node, List<Integer>[] graph, boolean[] suspicious) {
+    public void dfs (int node, List<List<Integer>> graph, boolean[] suspicious) {
         suspicious[node] = true;
 
-        for (int neighbour : graph[node]) {
+        for (int neighbour : graph.get(node)) {
             if (!suspicious[neighbour]) {
                 dfs(neighbour, graph, suspicious);
             }
