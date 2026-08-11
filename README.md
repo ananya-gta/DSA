@@ -7,6 +7,7 @@
 | [0200-number-of-islands](https://github.com/ananya-gta/DSA/tree/master/0200-number-of-islands) |
 | [0877-stone-game](https://github.com/ananya-gta/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ananya-gta/DSA/tree/master/1406-stone-game-iii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ananya-gta/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/ananya-gta/DSA/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -37,10 +38,12 @@
 ## Hash Table
 |  |
 | ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ananya-gta/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/ananya-gta/DSA/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ananya-gta/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/ananya-gta/DSA/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
