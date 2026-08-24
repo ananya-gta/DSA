@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/ananya-gta/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ananya-gta/DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/ananya-gta/DSA/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/ananya-gta/DSA/tree/master/0877-stone-game) |
@@ -56,11 +57,13 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/ananya-gta/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ananya-gta/DSA/tree/master/0200-number-of-islands) |
 | [3310-remove-methods-from-project](https://github.com/ananya-gta/DSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/ananya-gta/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ananya-gta/DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/ananya-gta/DSA/tree/master/0542-01-matrix) |
 | [3310-remove-methods-from-project](https://github.com/ananya-gta/DSA/tree/master/3310-remove-methods-from-project) |
@@ -71,10 +74,12 @@
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/ananya-gta/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ananya-gta/DSA/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/ananya-gta/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ananya-gta/DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/ananya-gta/DSA/tree/master/0542-01-matrix) |
 ## Enumeration
