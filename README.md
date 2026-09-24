@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ananya-gta/DSA/tree/master/0053-maximum-subarray) |
 | [0130-surrounded-regions](https://github.com/ananya-gta/DSA/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/ananya-gta/DSA/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/ananya-gta/DSA/tree/master/0200-number-of-islands) |
@@ -28,6 +29,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ananya-gta/DSA/tree/master/0053-maximum-subarray) |
 | [0542-01-matrix](https://github.com/ananya-gta/DSA/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/ananya-gta/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ananya-gta/DSA/tree/master/1406-stone-game-iii) |
@@ -124,6 +126,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ananya-gta/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ananya-gta/DSA/tree/master/0169-majority-element) |
 ## Counting
 |  |
