@@ -8,6 +8,7 @@
 | [0018-4sum](https://github.com/ananya-gta/DSA/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/ananya-gta/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ananya-gta/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ananya-gta/DSA/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/ananya-gta/DSA/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/ananya-gta/DSA/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/ananya-gta/DSA/tree/master/0200-number-of-islands) |
@@ -70,6 +71,7 @@
 | [0015-3sum](https://github.com/ananya-gta/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ananya-gta/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ananya-gta/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ananya-gta/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ananya-gta/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ananya-gta/DSA/tree/master/0229-majority-element-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ananya-gta/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -153,6 +155,7 @@
 | [0015-3sum](https://github.com/ananya-gta/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ananya-gta/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ananya-gta/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ananya-gta/DSA/tree/master/0088-merge-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
