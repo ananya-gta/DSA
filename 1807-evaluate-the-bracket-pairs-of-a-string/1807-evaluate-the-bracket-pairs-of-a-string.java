@@ -3,7 +3,6 @@ class Solution {
 
         HashMap<String, String> map = new HashMap<>();
 
-        // knowledge -> HashMap
         for (List<String> pair : knowledge) {
             map.put(pair.get(0), pair.get(1));
         }
