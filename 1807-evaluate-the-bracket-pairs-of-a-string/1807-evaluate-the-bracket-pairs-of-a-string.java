@@ -19,7 +19,6 @@ class Solution {
 
                 String key = s.substring(i + 1, j);
 
-                // O(1) average lookup
                 sb.append(map.getOrDefault(key, "?"));
 
                 i = j + 1;
