@@ -6,6 +6,7 @@
 | ------- |
 | [0015-3sum](https://github.com/ananya-gta/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ananya-gta/DSA/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/ananya-gta/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ananya-gta/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ananya-gta/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ananya-gta/DSA/tree/master/0088-merge-sorted-array) |
@@ -35,6 +36,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ananya-gta/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ananya-gta/DSA/tree/master/0053-maximum-subarray) |
 | [0542-01-matrix](https://github.com/ananya-gta/DSA/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/ananya-gta/DSA/tree/master/0877-stone-game) |
@@ -159,6 +161,7 @@
 | ------- |
 | [0015-3sum](https://github.com/ananya-gta/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ananya-gta/DSA/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/ananya-gta/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ananya-gta/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ananya-gta/DSA/tree/master/0088-merge-sorted-array) |
 ## Quicksort
@@ -172,6 +175,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ananya-gta/DSA/tree/master/0042-trapping-rain-water) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ananya-gta/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ananya-gta/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -179,4 +183,8 @@
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ananya-gta/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ananya-gta/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ananya-gta/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
