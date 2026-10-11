@@ -19,6 +19,7 @@
 | [1406-stone-game-iii](https://github.com/ananya-gta/DSA/tree/master/1406-stone-game-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ananya-gta/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ananya-gta/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ananya-gta/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ananya-gta/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ananya-gta/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ananya-gta/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -112,6 +113,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ananya-gta/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ananya-gta/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Concurrency
 |  |
