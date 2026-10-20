@@ -132,6 +132,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ananya-gta/DSA/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ananya-gta/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0680-valid-palindrome-ii](https://github.com/ananya-gta/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ananya-gta/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ananya-gta/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ananya-gta/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -173,6 +174,7 @@
 | [0042-trapping-rain-water](https://github.com/ananya-gta/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ananya-gta/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ananya-gta/DSA/tree/master/0088-merge-sorted-array) |
+| [0680-valid-palindrome-ii](https://github.com/ananya-gta/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Quicksort
 |  |
 | ------- |
@@ -208,6 +210,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/ananya-gta/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0680-valid-palindrome-ii](https://github.com/ananya-gta/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ananya-gta/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Binary Indexed Tree
 |  |
