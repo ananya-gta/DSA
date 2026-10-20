@@ -88,6 +88,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/ananya-gta/DSA/tree/master/0130-surrounded-regions) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ananya-gta/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/ananya-gta/DSA/tree/master/0200-number-of-islands) |
 | [3310-remove-methods-from-project](https://github.com/ananya-gta/DSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -188,6 +189,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ananya-gta/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ananya-gta/DSA/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ananya-gta/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/ananya-gta/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ananya-gta/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ananya-gta/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -220,4 +222,12 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ananya-gta/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ananya-gta/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ananya-gta/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
