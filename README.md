@@ -68,6 +68,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ananya-gta/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/ananya-gta/DSA/tree/master/0041-first-missing-positive) |
+| [0146-lru-cache](https://github.com/ananya-gta/DSA/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ananya-gta/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ananya-gta/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ananya-gta/DSA/tree/master/0242-valid-anagram) |
@@ -273,4 +274,16 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/ananya-gta/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ananya-gta/DSA/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ananya-gta/DSA/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ananya-gta/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
