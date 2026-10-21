@@ -65,6 +65,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ananya-gta/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/ananya-gta/DSA/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/ananya-gta/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ananya-gta/DSA/tree/master/0229-majority-element-ii) |
@@ -133,6 +134,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ananya-gta/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/ananya-gta/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ananya-gta/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ananya-gta/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -140,6 +142,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ananya-gta/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/ananya-gta/DSA/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ananya-gta/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/ananya-gta/DSA/tree/master/0680-valid-palindrome-ii) |
