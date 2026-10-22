@@ -15,6 +15,7 @@
 | [0130-surrounded-regions](https://github.com/ananya-gta/DSA/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/ananya-gta/DSA/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/ananya-gta/DSA/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/ananya-gta/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/ananya-gta/DSA/tree/master/0229-majority-element-ii) |
 | [0542-01-matrix](https://github.com/ananya-gta/DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ananya-gta/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ananya-gta/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/ananya-gta/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/ananya-gta/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ananya-gta/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ananya-gta/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -172,11 +174,13 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ananya-gta/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/ananya-gta/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/ananya-gta/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ananya-gta/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ananya-gta/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ananya-gta/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ananya-gta/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ananya-gta/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
