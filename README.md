@@ -17,6 +17,7 @@
 | [0200-number-of-islands](https://github.com/ananya-gta/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ananya-gta/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/ananya-gta/DSA/tree/master/0229-majority-element-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ananya-gta/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0542-01-matrix](https://github.com/ananya-gta/DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ananya-gta/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ananya-gta/DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -37,6 +38,7 @@
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ananya-gta/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0877-stone-game](https://github.com/ananya-gta/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ananya-gta/DSA/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ananya-gta/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
