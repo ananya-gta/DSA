@@ -165,6 +165,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ananya-gta/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/ananya-gta/DSA/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/ananya-gta/DSA/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/ananya-gta/DSA/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/ananya-gta/DSA/tree/master/0678-valid-parenthesis-string) |
