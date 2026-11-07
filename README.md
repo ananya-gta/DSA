@@ -16,6 +16,7 @@
 | [0169-majority-element](https://github.com/ananya-gta/DSA/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/ananya-gta/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ananya-gta/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ananya-gta/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ananya-gta/DSA/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ananya-gta/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ananya-gta/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -96,6 +97,7 @@
 | [0075-sort-colors](https://github.com/ananya-gta/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ananya-gta/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ananya-gta/DSA/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ananya-gta/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ananya-gta/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ananya-gta/DSA/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ananya-gta/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -196,6 +198,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/ananya-gta/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ananya-gta/DSA/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ananya-gta/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -299,4 +302,12 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ananya-gta/DSA/tree/master/0146-lru-cache) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ananya-gta/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ananya-gta/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
