@@ -18,6 +18,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/ananya-gta/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ananya-gta/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ananya-gta/DSA/tree/master/0229-majority-element-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/ananya-gta/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ananya-gta/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ananya-gta/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0542-01-matrix](https://github.com/ananya-gta/DSA/tree/master/0542-01-matrix) |
@@ -50,6 +51,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ananya-gta/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ananya-gta/DSA/tree/master/0053-maximum-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/ananya-gta/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0542-01-matrix](https://github.com/ananya-gta/DSA/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/ananya-gta/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/ananya-gta/DSA/tree/master/0877-stone-game) |
@@ -185,6 +187,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ananya-gta/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ananya-gta/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/ananya-gta/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/ananya-gta/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ananya-gta/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
@@ -311,4 +314,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ananya-gta/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ananya-gta/DSA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
