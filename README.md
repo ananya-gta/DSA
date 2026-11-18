@@ -85,6 +85,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/ananya-gta/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ananya-gta/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ananya-gta/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/ananya-gta/DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ananya-gta/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ananya-gta/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ananya-gta/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -179,6 +180,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ananya-gta/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ananya-gta/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ananya-gta/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/ananya-gta/DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ananya-gta/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ananya-gta/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
@@ -212,6 +214,7 @@
 | [0169-majority-element](https://github.com/ananya-gta/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ananya-gta/DSA/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/ananya-gta/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/ananya-gta/DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
