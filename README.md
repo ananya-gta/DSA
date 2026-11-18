@@ -82,6 +82,7 @@
 | [0242-valid-anagram](https://github.com/ananya-gta/DSA/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ananya-gta/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ananya-gta/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1189-maximum-number-of-balloons](https://github.com/ananya-gta/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ananya-gta/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ananya-gta/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ananya-gta/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -174,6 +175,7 @@
 | [0680-valid-palindrome-ii](https://github.com/ananya-gta/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ananya-gta/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ananya-gta/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1189-maximum-number-of-balloons](https://github.com/ananya-gta/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ananya-gta/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ananya-gta/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ananya-gta/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -209,6 +211,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/ananya-gta/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ananya-gta/DSA/tree/master/0229-majority-element-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/ananya-gta/DSA/tree/master/1189-maximum-number-of-balloons) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
