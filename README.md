@@ -77,6 +77,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ananya-gta/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/ananya-gta/DSA/tree/master/0041-first-missing-positive) |
 | [0146-lru-cache](https://github.com/ananya-gta/DSA/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ananya-gta/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ananya-gta/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ananya-gta/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ananya-gta/DSA/tree/master/0242-valid-anagram) |
@@ -228,6 +229,7 @@
 | [0042-trapping-rain-water](https://github.com/ananya-gta/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ananya-gta/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ananya-gta/DSA/tree/master/0088-merge-sorted-array) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ananya-gta/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0680-valid-palindrome-ii](https://github.com/ananya-gta/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Quicksort
 |  |
@@ -305,6 +307,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ananya-gta/DSA/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ananya-gta/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Design
 |  |
 | ------- |
